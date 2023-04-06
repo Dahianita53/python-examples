@@ -82,3 +82,9 @@ algunos simbolos para hacer preguntas matematicas en python son:
 * pass:  es un marcador de posición que evita que el programa emita un mensaje de error
 
 * raise: se usa para indicar que se ha producido un error o una condición excepcional
+
+# Debugging
+
+## palabras clave:
+
+* breakpoints: en el proceso de debugging son puntos o marcas donde detenemos el código para saber y entender su funcionamiento
