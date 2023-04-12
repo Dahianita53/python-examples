@@ -88,3 +88,51 @@ algunos simbolos para hacer preguntas matematicas en python son:
 ## palabras clave:
 
 * breakpoints: en el proceso de debugging son puntos o marcas donde detenemos el código para saber y entender su funcionamiento
+
+# lecture-4
+
+## Estos son algunos enlaces a la biblioteca de python
+
+* https://docs.python.org/3/library/random.html
+
+* https://docs.python.org/3/library/statistics.html
+
+* https://docs.python.org/37library/sys.html
+
+* https://pypi.org/project/cowsay
+
+* https://pypi.org/project/requests
+
+* https://docs.python.org/3/library/json.html
+
+
+## palabras clave:
+
+* modules: archivos Python con la extensión . py, que implementa un conjunto de funciones
+
+* random: genera números enteros aleatorios comprendidos entre a y b separados entre sí con un salto
+
+* from import: le indicamos a Python específicamente cuáles objetos queremos importar de un módulo en particular
+
+* statistics: Ofrece funciones para el cálculo de valores estadísticos en el campo de los números reales
+
+* sys: Este módulo provee acceso a algunas variables usadas o mantenidas por el intérprete y a funciones que interactúan fuertemente con el intérprete
+
+* sys.argv: devuelve una lista de cadenas de caracteres, correspondientes a cada uno de los argumentos escritos al invocar el programa
+
+* sys.exit: perimte terminar la ejecución del script devolviendo un valor
+
+* slices: operación por medio de la cual se extraen elementos de una secuencia, tal como una lista o una cadena de caracteres
+
+* packages: espacios de nombre que contienen múltiples paquetes y módulos múltiples
+
+* cowsay: es un comando que imprime una vaca que dice algo
+
+* pip: es un sistema de gestión de paquetes utilizado para instalar y administrar paquetes de software escritos en Python y descargarlos a nuestra computadora con la finalidad de integrarlos a nuestros desarrollos realizado en python
+
+* APIs: La interfaz del programador de aplicaciones
+
+* requests: es una librería Python que facilita enormemente el trabajo con peticiones HTTP
+
+* json: formato de archivo usado para representar y almacenar información
+
