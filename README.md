@@ -136,3 +136,23 @@ algunos simbolos para hacer preguntas matematicas en python son:
 
 * json: formato de archivo usado para representar y almacenar información
 
+# Style
+
+## Estos son algunos enlaces a la biblioteca de python
+
+* https://peps.python.org/pep-0008/
+
+* https://pycodestyle.pycqa.org/en/latest/
+
+* https://black.readthedocs.io/en/stable/
+
+## palabras clave
+
+* pep 8: guía de estilos de Python
+
+* pylint: busca errores en el código de Python y promueve patrones correctos de codificación en Python
+
+* pycodestyle: módulo de Python que verifica el código de Python con las recomendaciones de PEP 8
+
+* black: es una herramienta que le permite identificar errores y formatear su código Python al mismo tiempo
+
