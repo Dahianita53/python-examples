@@ -31,5 +31,6 @@ para instalarla "pip install pylint"
 
 ## Programas que formatean el codigo por ti
 
-* Pycodestyle
+* Pycodestyle: módulo de Python que verifica el código de Python con las recomendaciones de PEP 8
+
 *  black: para instalarlo "pip install black"

@@ -156,3 +156,20 @@ algunos simbolos para hacer preguntas matematicas en python son:
 
 * black: es una herramienta que le permite identificar errores y formatear su código Python al mismo tiempo
 
+# lecture-5
+
+## Estos son algunos enlaces a la biblioteca de python
+
+* https://docs.pytest.org/en/7.3.x/
+
+## Algunos errores
+
+* AssertionError: errores que pueden levantarse al cumplirse una condición
+
+## palabras clave
+
+* assert: es una instruccion de Python que te permite definir condiciones que deban cumplirse siempre
+
+* pytest:marco de trabajo que permite realizar pruebas unitarias para un software en Python y se instala con "pip install pytest"
+
+* packages: son una forma de estructurar el espacio de nombres de módulos de Python usando

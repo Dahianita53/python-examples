@@ -27,6 +27,3 @@ Tambien tendra la capacidad de escribir codigo a traves de esa interfaz y mucho 
 
  * cd folder/
 prefija su aviso con un recordatorio rapido para que sepa que esta en la carpeta principal y no se confunda con otra carpeta que esta alli
-
-
-
