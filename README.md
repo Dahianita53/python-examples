@@ -172,4 +172,27 @@ algunos simbolos para hacer preguntas matematicas en python son:
 
 * pytest:marco de trabajo que permite realizar pruebas unitarias para un software en Python y se instala con "pip install pytest"
 
-* packages: son una forma de estructurar el espacio de nombres de módulos de Python usando
+* packages: son una forma de estructurar el espacio de nombres de módulos de Python
+
+# lecture-6
+
+## Estos son algunos enlaces a la biblioteca de python
+
+* https://docs.python.org/3/library/functions.html#open
+
+* https://docs.python.org/3/library/functions.html#sorted
+
+* https://docs.python.org/3/library/csv.html
+
+* https://pillow.readthedocs.io/en/stable/
+
+
+## palabras clave
+
+* list: son un tipo contenedor, compuesto, que se usan para almacenar conjuntos de elementos relacionados del mismo tipo o de tipos distintos.
+
+* open: una función incorporada (built-in) que abre un archivo y permite que tu programa tenga acceso a él
+
+* with: se usa para ajustar la ejecución de un bloque con métodos definidos por un administrador de contexto
+
+* csv:  son un tipo de documento de texto sencillo que se usa para representar datos en forma de tabla, donde las columnas se separan por comas o punto y coma y las filas por saltos de línea
