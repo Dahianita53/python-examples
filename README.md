@@ -196,3 +196,61 @@ algunos simbolos para hacer preguntas matematicas en python son:
 * with: se usa para ajustar la ejecución de un bloque con métodos definidos por un administrador de contexto
 
 * csv:  son un tipo de documento de texto sencillo que se usa para representar datos en forma de tabla, donde las columnas se separan por comas o punto y coma y las filas por saltos de línea
+
+# lecture-7
+
+## Estos son algunos enlaces a la biblioteca de python
+
+* https://docs.python.org/3/library/re.html
+
+## palabras clave
+
+* regexes: cadena de texto genérica, que se usa a modo de patrón, y que sirve para localizar trozos de texto dentro de otro texto mayor
+
+* re: expresion regular
+
+* ^ coincide con la estrella de la cadena
+
+* $ coincide con el final de la cadena justo antes de la nueva línea al final de la cadena
+
+* [] conjunto de caracteres
+
+* [^] complementando el conjunto
+
+* /d dígito decimal
+
+* /D no es un digito decimal
+
+* /s caracteres de espacio en blanco
+
+* /S no son caracteres de espacios en blanco
+
+* /w carácter de palabra... así como números y el guión bajo
+
+* /W ni un personaje de palabra
+
+* A|B cualquiera a o B
+
+* (...) Un grupo
+
+* (?:...) versión sin captura
+
+* re.IGNORECASE: fuerza que la función a la que se aplique realice una búsqueda insensible a mayúsculas y minúsculas
+
+* re.MULTILINE: modifica el comportamiento de ^ y `<letra para que coincidan con el comienzo y final de cada línea de la cadena, en lugar de coincidir con el comienzo y final de la cadena entera
+
+* re.DOTALL: fuerza que el símbolo . represente cualquier carácter, incluido el símbolo de nueva línea \n
+
+* .  cualquier carácter excepto una nueva línea
+
+* *  0 o más repeticiones
+
+* + 1 o más repeticiones
+
+* ? 0 o 1 repetición
+
+* {m} m repeticiones
+
+* {m, n} m-n repeticiones
+
+* := asignar un valor a una variable y que se evalúe como expresión
